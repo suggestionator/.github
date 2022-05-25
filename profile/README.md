@@ -1,1 +1,1 @@
-yaywhoo
+![Suggestionator](/profile/wordmark.png)
